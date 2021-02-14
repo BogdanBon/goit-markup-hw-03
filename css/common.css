@@ -79,8 +79,8 @@ body {
   flex-direction: column;
   min-height: 252px;
   background-color: var(--bgc-hero-footer);
-  margin: 0px -200px;
-  min-width: 1600px;
+  margin: 0px -100px;
+  /* min-width: 1600px; */
 }
 
 .address-color {
