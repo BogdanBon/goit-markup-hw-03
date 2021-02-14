@@ -80,7 +80,7 @@ body {
   min-height: 252px;
   background-color: var(--bgc-hero-footer);
   margin: 0px -100px;
-  /* min-width: 1600px; */
+  min-width: auto;
 }
 
 .address-color {

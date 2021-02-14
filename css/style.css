@@ -50,7 +50,7 @@
   background-color: var(--bgc-hero-footer);
   min-height: 600px;
   margin: 0px -100px;
-  /* min-width: 1600px; */
+  min-width: auto;
 }
 
 h1 {
@@ -148,7 +148,7 @@ h1 {
 .background-color-team {
   background-color: #f5f4fa;
   margin: 0px -100px;
-  /* min-width: 1600px; */
+  min-width: auto;
 }
 .team-personal-name {
   font-weight: 500;
