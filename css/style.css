@@ -40,8 +40,6 @@
 .hero-color {
   padding-top: 200px;
   padding-bottom: 200px;
-  margin-left: -200px;
-  margin-right: auto;
   text-align: center;
   color: #fff;
   font-weight: 700;
@@ -49,8 +47,8 @@
   line-height: 1.875;
   background-color: var(--bgc-hero-footer);
   min-height: 600px;
-  margin: 0px -100px;
-  min-width: auto;
+  /* margin: 0px -200px;
+  min-width: auto; */
 }
 
 h1 {
@@ -115,7 +113,7 @@ h1 {
 
 .team-title {
   width: 1170px;
-  margin-left: 100px;
+  margin: auto;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.17;
@@ -147,8 +145,8 @@ h1 {
 
 .background-color-team {
   background-color: #f5f4fa;
-  margin: 0px -100px;
-  min-width: auto;
+  /* margin: 0px -200px;
+  min-width: auto; */
 }
 .team-personal-name {
   font-weight: 500;
